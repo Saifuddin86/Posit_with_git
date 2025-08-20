@@ -1,0 +1,7 @@
+This is the introduction to our paper. We will discuss the background of our research and state our main objectives. The `iris` dataset is a classic example in the field of statistics.
+
+```{r}
+#| label: intro-summary
+# A simple code chunk for the intro
+summary(iris$Sepal.Length)
+```

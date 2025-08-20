@@ -1,0 +1,9 @@
+# Methods
+
+Our study employed a quantitative methodology. We analyzed the `iris` dataset, which was collected by Edgar Anderson. The statistical analysis was performed using R.
+
+```{r}
+#| label: methods-plot
+# A plot for the methods section
+hist(iris$Petal.Width, main = "Histogram of Petal Width")
+```

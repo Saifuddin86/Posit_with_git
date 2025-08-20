@@ -1,0 +1,16 @@
+---
+title: "My Awesome Manuscript"
+author: "Saifuddin & Mr. Y"
+format: html
+editor: visual
+---
+
+# Introduction
+```{r, child="intro.qmd"}
+```
+
+
+
+
+```{r, child="methods.qmd"}
+```
